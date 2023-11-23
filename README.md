@@ -11,3 +11,7 @@
 
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianamross&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+  
+⠀⠀⠀⠀⠀⠀
+<img width="460" heigth="300" src="src/assets/to_readme/Gato+dançando+Gif-649635510.gif">
