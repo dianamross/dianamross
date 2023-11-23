@@ -14,4 +14,4 @@
 
   
 ⠀⠀⠀⠀⠀⠀
-<img width="460" heigth="300" src="src/assets/to_readme/Gato+dançando+Gif-649635510.gif">
+<img width="360" heigth="200" src="src/assets/to_readme/Gato+dançando+Gif-649635510.gif">
